@@ -15,7 +15,6 @@
 
 ## Level 3
 * **HP:** 26 (18 + 7 + 1)
-* **Attributserhöhung:** DEX +1
 * **Rettungswürfe:** Will steigt auf 2
 * **BAB:** +3
 * **Klassen-Feature:** Endurance (Ausdauer)
@@ -25,6 +24,7 @@
 
 ## Level 4
 * **HP:** 36 (4*D8 + 4) *(Deus Ex Machina!)*
+* **Attributserhöhung:** DEX +1
 * **Rettungswürfe:** Fort 4, Ref 4
 * **BAB:** +4
 * **Klassen-Feature:** Tierbegleiter Wolf (Name: Rhuedan)
@@ -36,7 +36,7 @@
 * **HP:** 45 (5*D8 + 5)
 * **Rettungswürfe:** Fort 4, Ref 4
 * **BAB:** +4
-* **Klassen-Feature:** 2. Erzfeind: Humanoide (Elf/Drow) (+4 Schaden, Kobold steigt auf +4)
+* **Klassen-Feature:** 2. Erzfeind: Humanoide (Elf/Drow) (+4 Schaden)
 * **Waldläufer-Zauber:** 1. Grad: 1 (Standard: *Charm Animal*)
 * **Fertigkeitspunkte:** +7 (Gesamt: 56)
     * *Verteilung:* Knowledge (Dungeoneering) 5+1=6, Knowledge (Nature) 0+2=2, Survival 6+1=7, Use Rope 3+1=4, Handle Animal 4+2=6
@@ -65,7 +65,7 @@
 * **HP:** 72 (8D8 + 8)
 * **Rettungswürfe:** Fort 6, Ref 6, Will 2
 * **BAB:** +8/+3
-* **Klassen-Feature:** Swift Tracker (Schneller Spurenleser)
+* **Klassen-Feature:** Swift Tracker (Schneller Spurenleser), 
 * **Waldläufer-Zauber:** 1. Grad: 2 (*Hide from Animals*, *Charm Animal*), 2. Grad: 1 (*Wind Wall*)
 * **Fertigkeitspunkte:** +7 (Gesamt: 77)
     * *Verteilung:* Knowledge (Nature) 4+1=5, Knowledge (Geography) 5+3=8, Search 2+3=5
@@ -76,26 +76,26 @@
 * **BAB:** +9/+4 *(Ranger 8: +8 + HW 1: +1)*
 * **Klassen-Feature:** Terrain Mastery: **Underdark (Unterreich)**
     * *Effekt:* Du erhältst **Dunkelsicht (Darkvision) 60 ft.** und einen **+2 Kompetenzbonus auf Würfe für Hören (Listen)**.
-* **Stufe 9 Talent:** *TBD (Noch offen)*
+* **Bonus Feat (Ranger Level 8):** **Precise Shot** *(Kann mit Bögen in Melee-Kämpfen schießen ohne -4 Penalty; perfekt für präzise Schüsse im Nahkampf)*
 * **Waldläufer-Zauber:** 1. Grad: 1, 2. Grad: 0 *(Bleibt auf Stand von Ranger Level 8; zzgl. WIS-Bonus)*
 * **Fertigkeitspunkte:** +7 (Gesamt: 84)
     * *Verteilung:* Handle Animal 7+2=9, Knowledge (Nature) 5+2=7, Listen 4+1=5 *(zzgl. +2 Kompetenzbonus)*, Sense Motive 0+2=2
 
 ## Level 10 (Ranger Level 9)
 * **HP:** 92 (82 + 8 max HD + 2 CON)
-* **Rettungswürfe:** Fort 8, Ref 6, Will 5 *(Ranger 9 Basis: 6/6/3 + HW 1 Basis: 2/0/0)*
+* **Rettungswürfe:** Fort 8, Ref 6, Will 3 *(Ranger 9 Basis: 6/6/3 + HW 1 Basis: 2/0/0)*
 * **BAB:** +10/+5 *(Ranger 9: +9 + HW 1: +1)*
 * **Klassen-Feature:** **Evasion (Entrinnen)** *(Auf Ranger-Stufe 9 freigeschaltet)*
 * **Waldläufer-Zauber:** 1. Grad: 1, 2. Grad: 0 *(Basis laut Tabelle für Ranger 9; zzgl. WIS-Bonus)*
 * **Fertigkeitspunkte:** +7 (Gesamt: 91)
-    * *Verteilung:* *7 Punkte offen zum Verteilen!*
+    * *Verteilung:* Knowledge (Dungeoneering) 6+2=8, Search 5+2=7, Survival 7+2=9, Listen 5+1=6 *(zzgl. +2 Kompetenzbonus = 8)*
 
 ## Level 11 (Ranger Level 10)
 * **HP:** 102 (92 + 8 max HD + 2 CON)
-* **Rettungswürfe:** Fort 9, Ref 7, Will 5 *(Ranger 10 Basis: 7/7/3 + HW 1 Basis: 2/0/0)*
+* **Rettungswürfe:** Fort 9, Ref 7, Will 3 *(Ranger 10 Basis: 7/7/3 + HW 1 Basis: 2/0/0)*
 * **BAB:** +11/+6/+1 *(Ranger 10: +10/+5 + HW 1: +1. Dritter Angriff freigeschaltet!)*
-* **Klassen-Feature:** **3. Erzfeind: Ooze (Schlicke) (+4 Schaden)** *(Auf Ranger-Stufe 10 laut Tabelle freigeschaltet. Kobold/Drow bleiben auf ihren Werten)*
-* **Waldläufer-Zauber:** 1. Grad: 1, 2. Grad: 1 *(Basis steigt laut Tabelle für Ranger 10; zzgl. WIS-Bonus)*
+* **Klassen-Feature:** **3. Erzfeind: Ooze (Schlicke) (+4 Schaden)**
+* **Waldläufer-Zauber:** 1. Grad: 1, 2. Grad: 1 *(zzgl. WIS-Bonus +1)*
 * **Fertigkeitspunkte:** +7 (Gesamt: 98)
-    * *Verteilung:* *7 Punkte offen zum Verteilen!*
+    * *Verteilung:* Search 7+1=8, Knowledge (Dungeoneering) 8+2=10, Knowledge (Nature) 7+2=9, Climb 4+2=6
 *
