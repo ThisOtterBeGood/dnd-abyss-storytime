@@ -5,7 +5,7 @@
 | Währung | Menge |
 |---------|-------|
 | **Platinum (PP)** | 150 |
-| **Gold (GP)** | 8,296 |
+| **Gold (GP)** | 1921 |
 | **Silver (SP)** | 240 |
 | **Copper (CP)** | 9 |
 
